@@ -1,4 +1,4 @@
-# UITesting
+# ui-testing-java-selenium
 
 1. Created this repo so I can experiment with UI automation using Java / Selenium WebDriver / TestNg.
 2. The page object getters, setters, and locators were created via Lombok (for speed and simplicity)
